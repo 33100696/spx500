@@ -1,0 +1,15 @@
+{
+  "name": "sp500-ai-signal-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "zustand": "latest",
+    "lightweight-charts": "latest"
+  }
+}
